@@ -1,16 +1,46 @@
-# hydrocarbon-theme README
+# Hydrocarbon for vscode
 
-## Working with Markdown
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Usage
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Preferred method of installation is through [vscode marketplace]()
 
-## For more information
+## Customization
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### Recommended vscode settings
 
-**Enjoy!**
+
+These are my personal settings on vscode:
+
+```json
+{
+  "editor.fontWeight": "500",
+  "editor.lineHeight": 23,
+  "window.title": "Editing ${dirty}${activeEditorShort}",
+  "editor.fontSize": 14,
+}
+```
+
+The font used here is [JetBrains Mono](https://www.jetbrains.com/lp/mono/) ([nerd font version](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/JetBrainsMono.zip))
+
+
+## Language Support
+
+Supports syntax highlighting for all listed languages:
+
+- Rust
+- Go
+- PHP
+- Java
+- ELM
+- HTML
+- Coffeescript
+- Markdown
+- CSS/SCSS
+- Javascript/Typescript
+- Python
+
+
+### Acknowledgement
+
+[oscarnewman](https://github.com/oscarnewman) created a theme as [Carbon](https://github.com/oscarnewman/carbon-theme-vscode), this theme is highly inspired from it. <i>Hydrokarbon</i> exhibits a wide array of colors that appear soothing to the eyes, having support for multiple dev tools that are used widely.
