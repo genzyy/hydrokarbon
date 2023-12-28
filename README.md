@@ -1,3 +1,6 @@
+<div align=center>
+<img src="./assets/hydrokarbon.png" style="width: 100px; height: 100px;border-radius: 9px" /></div>
+
 # Hydrocarbon for vscode
 
 ![alt text](./assets/screenshot.png)
