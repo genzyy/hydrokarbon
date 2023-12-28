@@ -1,6 +1,11 @@
 {
   "name": "hydrokarbon-theme",
   "displayName": "Hydrokarbon",
+  "icon": "./assets/hydrokarbon.png",
+  "repository": {
+    "url": "https://github.com/genzyy/hydrokarbon"
+  },
+  "publisher": "Rishit",
   "description": "",
   "version": "0.0.1",
   "engines": {
