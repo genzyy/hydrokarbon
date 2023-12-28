@@ -3,7 +3,7 @@
 
 # Hydrokarbon theme
 
-![alt text](https://github.com/genzyy/hydrokarbon/blob/main/assets/hydrokarbon.png)
+![alt text](https://github.com/genzyy/hydrokarbon/blob/main/assets/screenshot.png)
 
 ## Usage
 
