@@ -1,6 +1,6 @@
 {
-  "name": "hydrocarbon-theme",
-  "displayName": "hydrocarbon theme",
+  "name": "hydrokarbon-theme",
+  "displayName": "Hydrokarbon",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "hydrocarbon",
+        "label": "hydrokarbon",
         "uiTheme": "vs-dark",
-        "path": "./themes/hydrocarbon-color-theme.json"
+        "path": "./themes/hydrokarbon-color-theme.json"
       }
     ]
   }
