@@ -7,7 +7,8 @@
 
 ## Usage
 
-Preferred method of installation is through [vscode marketplace]()
+Preferred method of installation is through [vscode marketplace](https://marketplace.visualstudio.com/items?itemName=Rishit.hydrokarbon-theme).
+You can also use `vsix` package from <i>package</i> directory and do `Install using vsix` in vscode.
 
 ## Customization
 
