@@ -1,5 +1,6 @@
 # Hydrocarbon for vscode
 
+![alt text](./assets/screenshot.png)
 
 ## Usage
 
@@ -9,7 +10,6 @@ Preferred method of installation is through [vscode marketplace]()
 
 ### Recommended vscode settings
 
-
 These are my personal settings on vscode:
 
 ```json
@@ -17,12 +17,11 @@ These are my personal settings on vscode:
   "editor.fontWeight": "500",
   "editor.lineHeight": 23,
   "window.title": "Editing ${dirty}${activeEditorShort}",
-  "editor.fontSize": 14,
+  "editor.fontSize": 14
 }
 ```
 
 The font used here is [JetBrains Mono](https://www.jetbrains.com/lp/mono/) ([nerd font version](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/JetBrainsMono.zip))
-
 
 ## Language Support
 
@@ -39,7 +38,6 @@ Supports syntax highlighting for all listed languages:
 - CSS/SCSS
 - Javascript/Typescript
 - Python
-
 
 ### Acknowledgement
 
