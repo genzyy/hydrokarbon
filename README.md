@@ -5,6 +5,8 @@
 
 ![alt text](https://github.com/genzyy/hydrokarbon/blob/main/assets/screenshot.png)
 
+<b>Font</b>: Dank Mono
+
 ## Usage
 
 Preferred method of installation is through [vscode marketplace](https://marketplace.visualstudio.com/items?itemName=Rishit.hydrokarbon-theme).
@@ -24,8 +26,6 @@ These are my personal settings on vscode:
   "editor.fontSize": 14
 }
 ```
-
-The font used here is SF Mono.
 
 ## Language Support
 
