@@ -21,7 +21,7 @@ These are my personal settings on vscode:
 }
 ```
 
-The font used here is [JetBrains Mono](https://www.jetbrains.com/lp/mono/) ([nerd font version](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/JetBrainsMono.zip))
+The font used here is SF Mono.
 
 ## Language Support
 
