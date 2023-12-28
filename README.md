@@ -1,9 +1,9 @@
 <div align=center>
-<img src="./assets/hydrokarbon.png" style="width: 100px; height: 100px;border-radius: 9px" /></div>
+<img src="https://github.com/genzyy/hydrokarbon/blob/main/assets/hydrokarbon.png" style="width: 100px; height: 100px;border-radius: 9px" /></div>
 
-# Hydrocarbon for vscode
+# Hydrokarbon theme
 
-![alt text](./assets/screenshot.png)
+![alt text](https://github.com/genzyy/hydrokarbon/blob/main/assets/hydrokarbon.png)
 
 ## Usage
 
